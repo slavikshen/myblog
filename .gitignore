@@ -59,3 +59,4 @@ typings/
 
 # hexo Output
 public/
+.deploy_git/
