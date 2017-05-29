@@ -2,5 +2,9 @@
 title: {{ title }}
 date: {{ date }}
 tags:
-categories: ['Others','HTML','ReactJS','Hexo']
+categories: 
+	- Others
+	- HTML
+	- ReactJS
+	- Hexo
 ---
