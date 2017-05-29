@@ -1,5 +1,5 @@
 ---
-title: 搭建Hexo
+title: 搭建Hexo博客系统
 date: 2017-05-28 15:00:26
 tags: [Hexo,NPM,Node.js]
 categories: system
@@ -136,7 +136,7 @@ $ npm run hot-server
 }
 ```
 
-调出VSCode命令窗口 <kbd>CMD/CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd></kbd>，输入test。
+调出VSCode命令窗口 <kbd>CMD/CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>，输入test。
 
 在Output会出现测试服务器和内容变化监控的启动信息。
 
