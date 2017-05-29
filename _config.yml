@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 外部记忆存储装置
+title: 魔法使いの手帳
 subtitle: 第二次重建
-description: 难保什么时候推倒重建
+description: 沈於众个人博客，难保什么时候推倒重建
 author:	沈於众 slavik.shen
 language: zh-cn
 timezone: America/New_York
@@ -45,7 +45,7 @@ highlight:
 
 prism_plugin:
 	mode: 'preprocess'		# realtime/preprocess
-	theme: 'okaidia'
+	theme: 'tomorrow'
 	line_number: false		# default false
 
 search:
@@ -55,6 +55,10 @@ search:
 # Category & Tag
 default_category: uncategorized
 category_map:
+	编程: programming
+	系统: system
+	生活: life
+	其他: other
 tag_map:
 
 # Date / Time format
