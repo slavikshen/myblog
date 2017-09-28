@@ -10,7 +10,9 @@
     "version": "3.3.7"
   },
   "dependencies": {
+    "dtrace-provider": "^0.8.5",
     "hexo": "^3.2.0",
+    "hexo-admin": "^2.2.1",
     "hexo-browsersync": "^0.2.0",
     "hexo-deployer-git": "^0.3.0",
     "hexo-generator-archive": "^0.1.4",
